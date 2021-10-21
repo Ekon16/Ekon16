@@ -4,3 +4,6 @@ I enjoy working as a team, I adjust easily to different environments and I am up
 technologies. I am looking for new challenges that make me grow, and continue to learn from the people around me.
 
 - 📫 How to reach me
+
+jigodino11@gmail.com
+

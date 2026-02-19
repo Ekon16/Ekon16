@@ -1,7 +1,7 @@
 <h1 align="center">Jose Ignacio Godino</h1>
 
 <div align="center">
-<h3>Data Analyst @ Telefónica | Student @ 42 Madrid | Automation & DevOps Enthusiast</h3>
+<h3>Data Analyst | Student @ 42 Madrid | Automation & DevOps Enthusiast</h3>
 <p>🚀 Analytical. Resolute. Committed.</p>
 <p>-----------------------------------------------------</p>
 </div>
@@ -17,47 +17,35 @@
 
 <h2 align="center">👨‍💻 Sobre Mí</h2>
 
-Soy un Data Analyst con alma de Ingeniero de Software. Actualmente soy estudiante en 42 Madrid, consolidando las bases de la programación (C, C++, Unix, Python) mientras automatizo procesos críticos en Telefónica Tech.
+Actualmente soy estudiante en 42 Madrid, consolidando las bases de la programación (C, C++, Unix, Python).
 
 🔭 Actualmente trabajando en: Automatización de procesos con Python & Snowflake.
 
 🎓 Estudiando: Ingeniería de Software en 42 y Computing Science & IT en The Open University.
 
-⚡ Logro destacado: por decidir
-
 🐧 Entorno: Linux lover & Vim user.
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-Core & Systems
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/c-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/c%2B%2B-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" alt="C++" />
+<h3>Core & Systems</h3>
+<p>
+<img src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/shell_script-%2523121011.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite" alt="Bash" />
+</p>
 
-Data & Analytics
-
-
-
-
-
+<h3>Data & Analytics</h3>
+<p>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/pandas-%2523150458.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Snowflake-29B5E8%3Fstyle%3Dfor-the-badge%26logo%3DSnowflake%26logoColor%3Dwhite" alt="Snowflake" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/power_bi-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack" alt="Power BI" />
+<img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy" alt="NumPy" />
+<img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas" alt="Pandas" />
+<img src="https://img.shields.io/badge/Snowflake-%2329B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+</p>
 
-DevOps & Cloud
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ansible-%2523EE0000.svg%3Fstyle%3Dfor-the-badge%26logo%3Dansible%26logoColor%3Dwhite" alt="Ansible" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/terraform-%25235835CC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dterraform%26logoColor%3Dwhite" alt="Terraform" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/git-%2523F05033.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/docker-%25230db7ed.svg%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" />
+<h3>DevOps & Cloud</h3>
+<p>
+<img src="https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+<img src="https://img.shields.io/badge/Terraform-%23844FBA?style=for-the-badge&logo=Terraform&logoColor=white" alt="Terraform" />
+<img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker" />
+</p>
